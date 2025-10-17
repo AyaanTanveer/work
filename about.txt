@@ -1,0 +1,1 @@
+Learning Git is important because it helps developers manage versions, collaborate easily, and track changes in code.
